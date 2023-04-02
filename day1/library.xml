@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="library.css"?>
+
+<library>
+   <location>27th Elrowad Compund</location>
+   <description>Book retail and borrowing</description>
+   <librarian>Maysara</librarian>
+   <books>
+        <book>
+           <ISBN>2525</ISBN>
+           <title>The picture fo Dorian Gray</title>
+           <Author>Oscar Wilde</Author>
+           <preface>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</preface>
+           <parts>
+                <part>
+                   <title>Part 1</title>
+                   <chapters>
+                      <chapter>
+                        <title>chapter 1</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+
+                      <chapter>
+                        <title>chapter2</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc </summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+
+                     <chapter>
+                        <title>chapter 3</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                        <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+                   </chapters>
+                </part>
+
+                <part>
+                   <title>Part2</title>
+                   <chapters>
+                      <chapter>
+                        <title>Chapter4</title>
+                        <summary> dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+
+                     <chapter>
+                        <title>Chapter5</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+                   </chapters>
+                </part>
+           </parts>
+        </book>
+
+
+        <book>
+           <ISBN>8525</ISBN>
+           <title>Jane Eyre</title>
+           <Author>Charlotte Bronte</Author>
+           <preface>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</preface>
+           <parts>
+                <part>
+                   <title>Part 1</title>
+                   <chapters>
+                      <chapter>
+                        <title>chapter 1</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+
+                      <chapter>
+                        <title>chapter2</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc </summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+
+                     <chapter>
+                        <title>chapter 3</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+                   </chapters>
+                </part>
+
+                <part>
+                   <title>Part2</title>
+                   <chapters>
+                      <chapter>
+                        <title>Chapter4</title>
+                        <summary> dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+
+                     <chapter>
+                        <title>Chapter5</title>
+                        <summary>dolor sit amet, consectetur adipiscing elit. Cras pellentesque sit amet lacus et auc</summary>
+                          <sections>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                          <section>
+                            <content>Nunc et quam ac augue vehicula imperdiet ut non mauris. Etiam dignissim semper ante. Donec faucibus consequat nisl vitae venenatis. Aenean id blandit ligula. Pellentesque volutpat sagittis ultricies. Mauris cursus, justo sed sollicitudin vulputate, velit justo laoreet purus, non tempus massa ipsum sit amet odio. Suspendisse hendrerit sagittis dui vitae pretium. Morbi ut leo a lectus rutrum vehicula ut eget leo.</content>
+                          </section>
+                        </sections>
+                      </chapter>
+                   </chapters>
+                </part>
+           </parts>
+        </book>
+   </books>
+</library>

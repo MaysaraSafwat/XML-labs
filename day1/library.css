@@ -1,0 +1,19 @@
+library{
+    width:100%;
+}
+book{
+    display: block;
+    margin: 5%;
+}
+book > title {
+    color: gold;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+part {
+    margin: 2%;
+    display: block;
+}
+part> title {
+    color :red;
+}
