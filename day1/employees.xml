@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="employee.css"?>
+
+<employees>
+    <employee> 
+            <name>Maysara</name>
+            <phone type="work">011568485</phone>
+            <phone type="mobile">01156486363</phone>
+            <address>
+                <street>Ali ibn Abi Taleb</street>
+                <buildingNum>7</buildingNum>
+                <region>smouha</region>
+                <city>Alexandria</city>
+                <country>Egypt</country>
+            </address>
+            <email>maisarasafwat@gmail.com</email>
+    </employee>
+
+     <employee> 
+            <name>Omar</name>
+            <phone type="mobile">01156486363</phone>
+            <address>
+                <street>Saad Zaghloul</street>
+                <buildingNum>8</buildingNum>
+                <region>Mhatet elraml</region>
+                <city>Alexandria</city>
+                <country>Egypt</country>
+            </address>
+            <email>omar@gmail.com</email>
+    </employee>
+
+         <employee> 
+            <name>john</name>
+            <phone type="mobile">0115522886</phone>
+            <address>
+                <street>kings streets</street>
+                <buildingNum>8</buildingNum>
+                <region>alabama</region>
+                <city>alabama</city>
+                <country>US</country>
+            </address>
+                <address>
+                <street>moshir</street>
+                <buildingNum>8</buildingNum>
+                <region>sidigaber</region>
+                <city>Alexandria</city>
+                <country>Egypt</country>
+            </address>
+            <email>john@gmail.com</email>
+    </employee>
+</employees>
+

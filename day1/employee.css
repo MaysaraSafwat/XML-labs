@@ -1,0 +1,12 @@
+employees {
+    width: 100%;
+}
+employee {
+    display: block;
+}
+
+name {
+    color: rgb(250, 161, 176);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
