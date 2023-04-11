@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+	<employee isbn="_1">
+		<name>Maysara</name>
+		<email>Maysara@gmail.com</email>
+		<phones>
+			<phone type="mobile">07775000</phone>
+			<phone type="home">07775000</phone>
+		</phones>
+		<addresses>
+			<address>
+			    <country>Egypt</country>
+			    <city>Alexandria</city>
+			    <region>Smouha/region>
+				<street>Elrowad</street>
+				<building-no>9</building-no>
+			</address>
+		</addresses>
+	</employee>
+	<employee isbn="_2">
+		<name>Omar</name>
+		<email>Omar@gmail.com</email>
+		<phones>
+			<phone type="mobile">07775000</phone>
+			<phone type="home">07775000</phone>
+		</phones>
+		<addresses>
+			<address>
+			    <country>Egypt</country>
+			    <city>Alexandria</city>
+			    <region>gleem</region>
+				<street>Ahmed fathy St.</street>
+				<building-no>14</building-no>
+			</address>
+		</addresses>
+	</employee>
+</employees>
