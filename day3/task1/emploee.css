@@ -1,0 +1,26 @@
+employee,addresses,phones{
+    display: flex;
+    flex-direction: column;
+    color:rgb(147, 196, 110);
+    }
+ employee{
+        margin: 1.2em  auto;
+        border: 2px solid rgb(147, 196, 110);
+        width: 20%;
+        padding: 1em;
+    
+}
+phones{
+    margin: 5px;
+    padding: 5px;
+    width: 250px;
+}
+address{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 2%;
+        width: 250px;
+        padding: 2%;
+        
+}
