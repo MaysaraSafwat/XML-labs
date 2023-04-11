@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+	<employee>
+		<name>Maysara</name>
+		<email>Maysara@gmail.com</email>	
+		<phone>01156486363</phone>
+		<address>9 Elrowad Compound, Smouha, Alexandria, Egypt</address>
+	</employee>
+	<employee>
+		<name>Maryam</name>
+		<email>Maryam@gmail.com</email>
+		<phone>0113375530</phone>
+		<address>14, Elmanyal, Cairo, Egypt</address>
+	</employee>
+	<employee>
+		<name>Omar</name>
+		<email>Omar@gmail.com</email>
+		<phone>07775000</phone>
+		<address>9 Elrowad Compound, Smouha, Alexandria, Egypt</address>
+	</employee>
+</employees>
