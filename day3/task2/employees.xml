@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="employee.css"?>
-<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///F:/xampp/htdocs/XML-Labs/day3/task1/employee.xsd">
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
 <employees>
-	<employee isbn="_1">
+	<employee isbn="1">
 		<name>Maysara</name>
 		<email>Maysara@gmail.com</email>
 		<phones>
@@ -19,7 +18,7 @@
 			</address>
 		</addresses>
 	</employee>
-	<employee isbn="_2">
+	<employee isbn="2">
 		<name>Omar</name>
 		<email>Omar@gmail.com</email>
 		<phones>

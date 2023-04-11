@@ -1,5 +1,5 @@
 <?php
-session_start(); // start the session
+session_start(); 
 $fileName = "employees.xml";
 $fileContent = file_get_contents($fileName);
 $doc = new DOMDocument();
@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $root = $doc->documentElement;
         $root->appendChild($newEmp);
 
-        // Save
+  
         $doc->save($fileName);
     }
     $index = $_SESSION["employeeSession"];
@@ -44,6 +44,31 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($_POST["action"] === "prev" && $index > 0) {
         $_SESSION["employeeSession"] -= 1;
     }
+
+    if ($_POST["action"] === "clear") {
+        $flag = true;
+    }
+
+    if ($_POST["action"] === "update") {
+        $root = $doc->documentElement;
+        $updatedEmp = $root->childNodes[$_SESSION["employeeSession"]];
+        $updatedEmp->childNodes[1]->nodeValue = $_POST['name'];
+        $updatedEmp->childNodes[2]->nodeValue = $_POST['email'];
+        $updatedEmp->childNodes[3]->nodeValue = $_POST['phone'];
+        $updatedEmp->childNodes[4]->nodeValue = $_POST['address'];
+        $doc->save($fileName);
+    }
+
+    if ($_POST["action"] === "delete") {
+        $root = $doc->documentElement;
+        $deletedEmp = $root->childNodes[$_SESSION["employeeSession"]];
+        $root->removeChild($deletedEmp);
+        $doc->save($fileName);
+        if ($_SESSION["employeeSession"] > 0) {
+            $_SESSION["employeeSession"] -= 1;
+        }
+    }
+
 }
 
 
@@ -55,5 +80,10 @@ $name = $employee->childNodes[0]->nodeValue;
 $email = $employee->childNodes[1]->nodeValue;
 $phone = $employee->childNodes[2]->nodeValue;
 $address = $employee->childNodes[3]->nodeValue;
+
+if ($flag) {
+    $name = $email = $phone = $address = "";
+    $clearFlag = false;
+}
 
 require_once("views/form.php");
